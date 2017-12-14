@@ -12,27 +12,47 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				"Hey Sugar Plum! How you doin\' ;)",
+				"For we are God\’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.",
+				"Finally, Kelsey, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.",
+				"Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror",
+				"Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised.",
+				"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+				"Come to me, all you who are weary and burdened, and I will give you rest. -Jesus",
+				"Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
+				"Cast your cares on the LORD and he will sustain you; he will never let the righteous be shaken.",
+				"Even though I walk through the darkest valley,I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+				"When I am afraid, I put my trust in you.",
+				"For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+				"You\'re Ian\'s favorite",
+				"God loves you and so do I -Ian",
+				"And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+				"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+				"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+				"Kelsey who has a why to live can bear any how - with God ;P",
+				"Being defeated is often a temporary condition. Giving up is what makes it permanent.",
+				"Be-U-tiful"
+				
 			],
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
+				"Good morning, Gorgeous!",
+				"Have the best day ever!",
 				"How was your sleep?"
 			],
 			afternoon: [
-				"Hello, beauty!",
+				"Hello, beautiful!",
 				"You look sexy!",
 				"Looking good today!"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
+				"Woah, you look hot!",
+				"You take my breath away!",
 				"Hi, sexy!"
 			]
 		},
-		updateInterval: 30000,
+		updateInterval: 300000,
 		remoteFile: null,
-		fadeSpeed: 4000
+		fadeSpeed: 2000
 	},
 
 	// Set currentweather from module
